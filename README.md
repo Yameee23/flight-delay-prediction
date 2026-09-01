@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Pour ce projet j'ai manipulé un dataset sur des vols aériens américains récupéré sur Kaggle (`Airlines.csv`), avec environ 540 000 vols (compagnie, aéroport de départ/arrivée, jour, heure, durée, et si le vol a été en retard).
+Pour ce projet j'ai manipulé un dataset sur des vols aériens américains récupéré sur Kaggle (`Airlines.csv`), avec environ 540 000 vols (compagnie, aéroport de départ/arrivée, jour, heure, durée, et si le vol a été en retard). voici le lien du dataset : https://www.kaggle.com/code/sonialikhan/airlines-dataset-to-predict-a-delay/input
 
 ## Ce que j'ai fait
 
